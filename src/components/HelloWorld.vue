@@ -5,78 +5,54 @@
     <ul>
       <li>
         <a
-          href="https://vuejs.org"
+          href="https://en.wikipedia.org/wiki/Go_(game)"
           target="_blank"
         >
-          Core Docs
+          Go on Wikipedia
         </a>
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="http://www.usgo.org/"
           target="_blank"
         >
-          Forum
+          American Go Association
         </a>
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="https://senseis.xmp.net/"
           target="_blank"
         >
-          Community Chat
+          Sensei's Library
         </a>
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="http://eidogo.com/"
           target="_blank"
         >
-          Twitter
+          Eidogo Joseki Library
         </a>
       </li>
       <br>
-      <li>
-        <a
-          href="http://vuejs-templates.github.io/webpack/"
-          target="_blank"
-        >
-          Docs for This Template
-        </a>
-      </li>
     </ul>
-    <h2>Ecosystem</h2>
+    <h2>Authors</h2>
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="https://ccflack.github.io/"
           target="_blank"
         >
-          vue-router
+          Chris Flack
         </a>
       </li>
       <li>
         <a
-          href="http://vuex.vuejs.org/"
+          href="https://joshuastronomy.github.io/"
           target="_blank"
         >
-          vuex
-        </a>
-      </li>
-      <li>
-        <a
-          href="http://vue-loader.vuejs.org/"
-          target="_blank"
-        >
-          vue-loader
-        </a>
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
-        >
-          awesome-vue
+          Joshua Flack
         </a>
       </li>
     </ul>
@@ -88,7 +64,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'A goban for Go written in Vue.js 2 and Go'
     }
   }
 }
