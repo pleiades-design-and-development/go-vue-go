@@ -18,4 +18,6 @@ npm run build
 npm run build --report
 ```
 
+Vuejs style guide [here](https://vuejs.org/v2/style-guide/)
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
