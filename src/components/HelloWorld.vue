@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
+    <img src="../assets/IMG_2160.jpg">
     <h1>{{ msg }}</h1>
+
+    <h2><a href="/goban">The Goban</a></h2>
     <h2>Essential Links</h2>
     <ul>
       <li>
