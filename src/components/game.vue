@@ -6,7 +6,6 @@
 import GoBan from './go-ban';
 
 export default {
-  name: 'game',
   data: function() {
     return {
       gameState: {}

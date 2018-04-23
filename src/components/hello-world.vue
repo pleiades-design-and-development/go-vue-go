@@ -64,7 +64,6 @@
 
 <script>
 export default {
-  name: 'hello-world',
   data: function() {
     return {
       msg: 'A goban for Go written in Vue.js 2 and Go'
