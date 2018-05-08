@@ -10,7 +10,7 @@ export default {
   name: 'go-ban',
   data: function() {
     return {
-      msg: 'A goban for Go written in Vue.js 2 and Go'
+      msg: 'A goban for Go written in Vue.js 2 and Go',
     }
   }
 }
